@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="グループ_12" data-name="グループ 12" transform="translate(-192.557 -146.006)">
+    <g id="グループ_10" data-name="グループ 10" transform="translate(192.557 146.006)">
+      <path id="パス_41" data-name="パス 41" d="M192.557,166.006a20,20,0,1,0,20-20A20,20,0,0,0,192.557,166.006Z" transform="translate(-192.557 -146.006)" fill="#e60012"/>
+    </g>
+    <g id="Icons_with_numbers" data-name="Icons with numbers" transform="translate(209.246 157.121)">
+      <g id="Group">
+        <path id="Shape" d="M209.321,156.8l5.894,5.052a1.206,1.206,0,0,1-.819.323H200.125a1.212,1.212,0,0,1-.824-.321l5.9-5.055,2.063,1.8Zm-2.06.613L199.3,150.6a1.2,1.2,0,0,1,.822-.326H214.4a1.2,1.2,0,0,1,.822.323Zm8.334,3.793-5.754-4.889,5.754-5v9.893Zm-16.667,0v-9.89l5.752,5-5.752,4.889Z" transform="translate(-198.927 -150.27)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="グループ_11" data-name="グループ 11" transform="translate(198.678 161.203)">
+      <path id="パス_42" data-name="パス 42" d="M200.87,156.107l-1.943,1.532,3.331,4.262,1.943-1.532Z" transform="translate(-188.675 -145.149)" fill="#fff"/>
+      <path id="パス_43" data-name="パス 43" d="M200.733,161.081a7.329,7.329,0,0,1-1.514-4.208l-3.332-4.263s-3.154,4.52,1.8,10.857,10.1,4.365,10.1,4.365l-3.332-4.263A7.354,7.354,0,0,1,200.733,161.081Z" transform="translate(-194.897 -150.548)" fill="#fff"/>
+      <path id="パス_44" data-name="パス 44" d="M200.833,156.061,197.5,151.8l-1.943,1.532,3.331,4.262Z" transform="translate(-193.874 -151.8)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
